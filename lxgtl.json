@@ -1,0 +1,25 @@
+{
+  "name": "DEFI",
+  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "name": "ampl",
+      "symbol": "ampl",
+      "decimals": 9,
+      "logoURI": "http://img2.3png.com/4312e682261a4faa59db0ee5bd16788bb6d2.png/w260"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
